@@ -1,0 +1,19 @@
+[ {
+  "apiName" : "dog-api",
+  "data" : [ "https://images.dog.ceo/breeds/african-wild/n02116738_6038.jpg" ]
+}, {
+  "apiName" : "neko-api",
+  "data" : [ "https://nekos.best/api/v2/neko/6b31a1d0-f457-4a13-b60b-fa27607ea12f.png" ]
+}, {
+  "apiName" : "colormind-api",
+  "data" : [ "https://www.colorhexa.com/1b242d", "https://www.colorhexa.com/ac9758", "https://www.colorhexa.com/d99117", "https://www.colorhexa.com/f1810f", "https://www.colorhexa.com/a73908" ]
+}, {
+  "apiName" : "dog-api",
+  "data" : [ "https://images.dog.ceo/breeds/pekinese/n02086079_6243.jpg" ]
+}, {
+  "apiName" : "neko-api",
+  "data" : [ "https://nekos.best/api/v2/neko/e5c72186-054a-404e-a016-2695efcfdacf.png" ]
+}, {
+  "apiName" : "colormind-api",
+  "data" : [ "https://www.colorhexa.com/499581", "https://www.colorhexa.com/21bbbe", "https://www.colorhexa.com/59f2d4", "https://www.colorhexa.com/fe4189", "https://www.colorhexa.com/e21263" ]
+} ]
